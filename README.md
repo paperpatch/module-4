@@ -12,7 +12,7 @@
 ## INTRODUCTION
 
 UConn Bootcamp Module 4: Web APIs<br />
-Following UConn Bootcamp's tutorial guide to learn about JavaScript - create a minimal viable product, MVP, combat simulator game called Robot Gladiators without CSS.  <br />
+Following UConn Bootcamp's tutorial guide to learn about application programming interfaces, or APIs, which allows web developers to create dynamic, interactive web applications. <br />
 <br/>
 Built With:
 - JavaScript
