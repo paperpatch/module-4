@@ -40,7 +40,7 @@ Tutorial Lessons:
 Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/module-4
 
 ## ACCESS
-https://paperpatch.github.io/module-4/
+https://paperpatch.github.io/module_4/
 
 ## CONTRIBUTION
 Made by Patrick Chen
