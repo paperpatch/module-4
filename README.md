@@ -17,6 +17,8 @@ Uses `localStorage` to maintain persistence.
 Built With:
 - JavaScript
 
+![Taskinator Screenshot](./assets/images/taskinator-screenshot.png)
+
 ## ACCESS
 https://paperpatch.github.io/taskinator/
 
